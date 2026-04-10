@@ -1,0 +1,5 @@
+{
+  "name": "Calcula Obra Pro",
+  "description": "Professional construction cost estimator with architectural-grade accuracy, 3D tours, and AR projection.",
+  "requestFramePermissions": ["camera", "geolocation"]
+}
